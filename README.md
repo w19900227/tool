@@ -7,6 +7,11 @@
 2. Jsfiddle 線上簡易網頁編輯 [連結](http://jsfiddle.net/)
 3. Koding免費虛機 [連結](https://koding.com/IDE/koding-vm-0/my-workspace)
 4. Codepen Css分享及線上編輯器 [連結](http://codepen.io/)
+5. Go lang editor [連結](https://tour.golang.org/welcome/1)
+
+###### 方便可讀網站
+1. Json editor瀏覽 [連結](http://jsoneditoronline.org/)
+2. XML beautifier瀏覽 [連結](http://xmlbeautifier.com/)
 
 ###### MarkDown editor
 1. markdown editor [連結](http://dillinger.io/#)
