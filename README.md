@@ -8,6 +8,8 @@
 3. Koding免費虛機 [連結](https://koding.com/IDE/koding-vm-0/my-workspace)
 4. Codepen Css分享及線上編輯器 [連結](http://codepen.io/)
 5. Go lang editor [連結](https://tour.golang.org/welcome/1)
+6. Google SSH [連結](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en)
+-教學 [連結](http://www.puritys.me/docs-blog/article-151-Chrome-SSH-Client-%E5%8F%96%E4%BB%A3-putty.html)
 
 ###### 方便可讀網站
 1. Json editor瀏覽 [連結](http://jsoneditoronline.org/)
