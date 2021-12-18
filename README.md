@@ -35,8 +35,8 @@
     3. github [連結](https://github.com/docker/compose)
 
 ###### Docs tool 介紹
-*. [mermaid-js](https://github.com/mermaid-js/mermaid): 提供用簡單的 Markdown 來撰寫流程圖的功能
-*. [vscode-drawio](https://github.com/hediet/vscode-drawio): 可以讓 vscode 可以直接在.jpg/.png中編輯圖片並同步更新在 Markdown 中
-*. [swagger-generator](https://github.com/swagger-api/swagger-codegen): [swagger](https://github.com/swagger-api)是一個撰寫 Open API 介面的方案，大家常常拿它來撰寫介面，但其實他也可以透過這些文件來生產出不同語言的Server端與Client端，對於規範好不同團隊語言的接口很方便。
-*. [Insomnia Designer](https://insomnia.rest/product/design): 可以用 Open API 來產生 Postman 測試端點的軟體！
+* [mermaid-js](https://github.com/mermaid-js/mermaid): 提供用簡單的 Markdown 來撰寫流程圖的功能
+* [vscode-drawio](https://github.com/hediet/vscode-drawio): 可以讓 vscode 可以直接在.jpg/.png中編輯圖片並同步更新在 Markdown 中
+* [swagger-generator](https://github.com/swagger-api/swagger-codegen): [swagger](https://github.com/swagger-api)是一個撰寫 Open API 介面的方案，大家常常拿它來撰寫介面，但其實他也可以透過這些文件來生產出不同語言的Server端與Client端，對於規範好不同團隊語言的接口很方便。
+* [Insomnia Designer](https://insomnia.rest/product/design): 可以用 Open API 來產生 Postman 測試端點的軟體！
 ---
